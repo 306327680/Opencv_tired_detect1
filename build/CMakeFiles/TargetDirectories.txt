@@ -1,0 +1,3 @@
+/media/echo/b2a9fa21-3048-46e9-88cd-f1b4027df9b3/home/echo/Opencv_tired_detect1/build/CMakeFiles/edit_cache.dir
+/media/echo/b2a9fa21-3048-46e9-88cd-f1b4027df9b3/home/echo/Opencv_tired_detect1/build/CMakeFiles/rebuild_cache.dir
+/media/echo/b2a9fa21-3048-46e9-88cd-f1b4027df9b3/home/echo/Opencv_tired_detect1/build/CMakeFiles/tired_detction.dir
